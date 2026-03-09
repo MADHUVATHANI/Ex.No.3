@@ -159,7 +159,3 @@ Thus, the various types of prompts such as **Straightforward Prompting, Tabular 
 
 ---
 
-If you want, I can also help you:
-
-* **Convert this into 6–8 handwritten pages format (perfect for record submission)**
-* **Add diagrams / flowchart for prompt engineering** so your record looks **more impressive for internal marks.**
